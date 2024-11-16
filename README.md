@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 <div>
-  <a>
+  <a href="https://i.imgur.com/Pi0MQp1.gifv">
     <img style="max-width:300px;" src="https://i.imgur.com/Pi0MQp1.gif">
   </a>
 </div>
