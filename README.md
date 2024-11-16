@@ -19,7 +19,7 @@ The following **required** functionality is completed:
   </a>
 </div>
 
-##Fav Apps
+## Fav Apps
 
 Clash Royale
 -Drag and drop cards
