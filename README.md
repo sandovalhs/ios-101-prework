@@ -13,7 +13,11 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<img src='https://i.imgur.com/STmCBWS.gif' title='Video Demo' width='' alt='Video Demo' />
+<div>
+  <a href="https://www.loom.com/share/2e0969872e6d4e158ebf9de800ae63f3">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2e0969872e6d4e158ebf9de800ae63f3-7825c4c572d2faf3-full-play.gif">
+  </a>
+</div>
 
 ## Fav Apps
 
