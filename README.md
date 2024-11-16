@@ -13,7 +13,11 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-  <img style="max-width:300;" src="https://i.imgur.com/Pi0MQp1.gif">
+<div>
+  <a href="https://imgur.com/a/SbkWpvv">
+    <img style="max-width:300px;" src="https://i.imgur.com/Pi0MQp1.gif">
+  </a>
+</div>
 
 ## Fav Apps
 
