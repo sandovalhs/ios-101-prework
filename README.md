@@ -13,7 +13,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<img src='https://i.imgur.com/INpLExz.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='[https://i.imgur.com/INpLExz.gif]https://i.imgur.com/STmCBWS.gif' title='Video Demo' width='' alt='Video Demo' />
 
 ## Fav Apps
 
