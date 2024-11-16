@@ -13,11 +13,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div>
-  <a href="https://www.loom.com/share/2e0969872e6d4e158ebf9de800ae63f3">
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2e0969872e6d4e158ebf9de800ae63f3-7825c4c572d2faf3-full-play.gif">
-  </a>
-</div>
+  <img style="max-width:300;" src="https://i.imgur.com/Pi0MQp1.gif">
 
 ## Fav Apps
 
